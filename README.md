@@ -29,7 +29,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=Tomb360)
 
 Here are some ideas to get you started:
 
