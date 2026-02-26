@@ -12,9 +12,6 @@
   - [Active Directory Homelab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Splunk Homelab</b>
   - [Splunk Homelab](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Simulating my own SOC</b>
   - [SOC Simulation](https://github.com/joshmadakor1/EncrypterPOC)
  
