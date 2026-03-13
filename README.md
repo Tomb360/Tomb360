@@ -4,16 +4,17 @@
 
  [CompTIA Security+](https://www.credly.com/badges/6e6d0a76-4065-4106-a1e2-48a924484cb2/public_url)
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>SOC L1 Practice (In Progress) </b>
-  - [Tryhackme](https://www.credly.com/badges/6e6d0a76-4065-4106-a1e2-48a924484cb2/public_url)
+  - [Tryhackme](https://tryhackme.com/p/Tomb.360?tab=completed-rooms)
 - <b>Active Directory Homelab</b>
-  - [Active Directory Homelab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Splunk Homelab</b>
+  - [Active Directory Homelab](https://github.com/Tomb360/Active-Directory-Homelab)
+<!--- <b>Splunk Homelab</b>
   - [Splunk Homelab](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Simulating my own SOC</b>
   - [SOC Simulation](https://github.com/joshmadakor1/EncrypterPOC)
+  -->
  
 <h2> 🤳 Connect with me:</h2>
 
