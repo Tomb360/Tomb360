@@ -10,8 +10,9 @@
   - [Tryhackme](https://tryhackme.com/p/Tomb.360?tab=completed-rooms)
 - <b>Active Directory Homelab</b>
   - [Active Directory Homelab](https://github.com/Tomb360/Active-Directory-Homelab)
-<!--- <b>Splunk Homelab</b>
-  - [Splunk Homelab](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>MS365 Admin Center</b>
+  - [MS365 Admin Center](https://github.com/Tomb360/Microsoft365-Admin-Center-Lab)
+<!--- 
 - <b>Simulating my own SOC</b>
   - [SOC Simulation](https://github.com/joshmadakor1/EncrypterPOC)
   -->
