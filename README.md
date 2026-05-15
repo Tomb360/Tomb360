@@ -14,7 +14,7 @@
   - [MS365 Admin Center Homelab](https://github.com/Tomb360/Microsoft365-Admin-Center-Lab)
 - <b>ServiceNow Homelab</b>
   - [ServiceNow Homelab](https://github.com/Tomb360/ServiceNow-PDI)
-- <b>Basic Lan Configuration - Cisco Packet Tracer<b>
+- <b>Basic LAN Configuration - Cisco Packet Tracer<b>
   - [Basic LAN Config Homelab](https://github.com/Tomb360/Basic-LAN-Setup-with-Cisco-Packet-Tracer)
 <!--- 
 - <b>Simulating my own SOC</b>
