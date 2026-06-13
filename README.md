@@ -16,6 +16,8 @@
   - [ServiceNow Homelab](https://github.com/Tomb360/ServiceNow-PDI)
 - <b>Basic LAN Configuration - Cisco Packet Tracer<b>
   - [Basic LAN Config Homelab](https://github.com/Tomb360/Basic-LAN-Setup-with-Cisco-Packet-Tracer)
+- <b>Wireshark Homelab<b>
+  - [Wireshark Homelab](https://github.com/Tomb360/wireshark-homelab/tree/main)
 <!--- 
 - <b>Simulating my own SOC</b>
   - [SOC Simulation](https://github.com/joshmadakor1/EncrypterPOC)
